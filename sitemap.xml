@@ -1,1 +1,23 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml"><url><loc>https://dfwanguh.github.io/categories/</loc></url><url><loc>https://dfwanguh.github.io/gallery/</loc></url><url><loc>https://dfwanguh.github.io/instrumentation/</loc></url><url><loc>https://dfwanguh.github.io/join/</loc></url><url><loc>https://dfwanguh.github.io/publications/</loc></url><url><loc>https://dfwanguh.github.io/research/</loc></url><url><loc>https://dfwanguh.github.io/tags/</loc></url><url><loc>https://dfwanguh.github.io/team/</loc></url><url><loc>https://dfwanguh.github.io/</loc></url></urlset>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://dfwanguh.github.io/categories/</loc>
+  </url><url>
+    <loc>https://dfwanguh.github.io/gallery/</loc>
+  </url><url>
+    <loc>https://dfwanguh.github.io/instrumentation/</loc>
+  </url><url>
+    <loc>https://dfwanguh.github.io/join/</loc>
+  </url><url>
+    <loc>https://dfwanguh.github.io/publications/</loc>
+  </url><url>
+    <loc>https://dfwanguh.github.io/research/</loc>
+  </url><url>
+    <loc>https://dfwanguh.github.io/tags/</loc>
+  </url><url>
+    <loc>https://dfwanguh.github.io/team/</loc>
+  </url><url>
+    <loc>https://dfwanguh.github.io/</loc>
+  </url>
+</urlset>
