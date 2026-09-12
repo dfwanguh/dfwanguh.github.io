@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>王东飞课题组</title>
+    <title>王东飞课题组 on </title>
     <link>https://dfwanguh.github.io/zh-cn/</link>
-    <description>Recent content on 王东飞课题组</description>
+    <description>Recent content in 王东飞课题组 on </description>
     <generator>Hugo</generator>
     <language>zh-CN</language>
     <atom:link href="https://dfwanguh.github.io/zh-cn/index.xml" rel="self" type="application/rss+xml" />
@@ -20,7 +20,7 @@
       <link>https://dfwanguh.github.io/zh-cn/team/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://dfwanguh.github.io/zh-cn/team/</guid>
-      <description>&lt;h2 id=&#34;课题组负责人&#34;&gt;课题组负责人&lt;/h2&gt;
+      <description>&lt;h2 id=&#34;研究组负责人&#34;&gt;研究组负责人&lt;/h2&gt;
 &lt;div class=&#34;team-grid single&#34;&gt;
 &lt;div class=&#34;team-member&#34;&gt;
   &lt;img src=&#34;https://dfwanguh.github.io/images/group/dfwang1.jpg&#34; alt=&#34;王东飞&#34;&gt;
@@ -222,7 +222,7 @@
 					class=&#34;galleryImg&#34;
 					
 						
-							title=&#34;Back view of the STM head out of STM chamber&#34;
+							title=&#34;STM扫描头&#34;
 						
 
 						
@@ -298,7 +298,7 @@
 					class=&#34;galleryImg&#34;
 					
 						
-							title=&#34;Home-built pumping station for vacuum leak check and chamber fast pumping&#34;
+							title=&#34;自主搭建的真空泵车&#34;
 						
 
 						
@@ -322,7 +322,7 @@
 						
 							
 								
-									alt=&#34;Home-built pumping station for vacuum leak check and chamber fast pumping&#34;
+									alt=&#34;自主搭建的真空泵车&#34;
 								
 							
 						
@@ -376,7 +376,7 @@
 					class=&#34;galleryImg&#34;
 					
 						
-							title=&#34;LHe Transfer: Filling our LHe cryostat with dewar, 2026&#34;
+							title=&#34;向设备低温杜瓦重注液氦&#34;
 						
 
 						
@@ -400,7 +400,7 @@
 						
 							
 								
-									alt=&#34;LHe Transfer: Filling our LHe cryostat with dewar, 2026&#34;
+									alt=&#34;向设备低温杜瓦重注液氦&#34;
 								
 							
 						
@@ -454,7 +454,7 @@
 					class=&#34;galleryImg&#34;
 					
 						
-							title=&#34;Electron beam evaporator for evaporating high melting point materials&#34;
+							title=&#34;电子束蒸发源&#34;
 						
 
 						
@@ -478,7 +478,7 @@
 						
 							
 								
-									alt=&#34;Electron beam evaporator for evaporating high melting point materials&#34;
+									alt=&#34;电子束蒸发源&#34;
 								
 							
 						
@@ -931,7 +931,7 @@
 					class=&#34;galleryImg&#34;
 					
 						
-							title=&#34;Group photo 2025&#34;
+							title=&#34;研究组合影 2025&#34;
 						
 
 						
@@ -1007,7 +1007,7 @@
 					class=&#34;galleryImg&#34;
 					
 						
-							title=&#34;Boating on river&#34;
+							title=&#34;竹筏漂流&#34;
 						
 
 						
@@ -1083,7 +1083,7 @@
 					class=&#34;galleryImg&#34;
 					
 						
-							title=&#34;Yesanpo Mountain Climbing&#34;
+							title=&#34;野三坡徒步&#34;
 						
 
 						
@@ -1107,7 +1107,7 @@
 						
 							
 								
-									alt=&#34;Yesanpo Mountain Climbing&#34;
+									alt=&#34;野三坡徒步&#34;
 								
 							
 						
@@ -1202,7 +1202,7 @@
 &lt;p&gt;拓扑超导体作为一类新兴的超导态，为研究拓扑学及宇称对称性提供了理想平台。它们还支持马约拉纳任意子的存在——这是一种自身即为其反粒子的准粒子，在容错量子计算中具有潜在应用。低温扫描隧道显微镜/谱（STM/STS）因其超高的空间和能量分辨率，是研究拓扑超导态的重要实验手段。我们的研究聚焦于利用先进的 STM 技术，如自旋极化 STM，来研究拓扑超导体候选材料中马约拉纳任意子的磁场响应。此外，我们探索操控马约拉纳任意子并实现其融合的可能性。本研究得到国家自然科学基金的支持。&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;
-&lt;h2 id=&#34;低维材料制备&#34;&gt;低维材料制备&lt;/h2&gt;
+&lt;h2 id=&#34;先进低维材料制备&#34;&gt;先进低维材料制备&lt;/h2&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;近年来，低维量子材料因其独特的电子性质和潜在的器件应用而受到广泛关注。与传统电子材料相比，低维量子材料在维度降低和量子限域效应的影响下展现出许多新颖的电子特性和优势。例如，一维碳纳米管具有高载流子迁移率和机械强度；二维石墨烯和过渡金属硫族化合物（TMD）是研究量子霍尔效应和分数量子霍尔效应等新颖电子特性的理想平台；三维拓扑绝缘体具有拓扑保护的、自旋轨道锁定的表面态。对低维量子材料的研究有望为从计算到能源等广泛领域带来诸多潜在技术进步。&lt;/p&gt;
