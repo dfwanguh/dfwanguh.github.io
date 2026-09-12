@@ -1,18 +1,105 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Wang Group</title>
-    <link>https://dfwanguh.github.io/</link>
-    <description>Recent content on Wang Group</description>
+    <title>王东飞课题组</title>
+    <link>https://dfwanguh.github.io/zh-cn/</link>
+    <description>Recent content on 王东飞课题组</description>
     <generator>Hugo</generator>
-    <language>en-US</language>
-    <atom:link href="https://dfwanguh.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <language>zh-CN</language>
+    <atom:link href="https://dfwanguh.github.io/zh-cn/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Gallery</title>
-      <link>https://dfwanguh.github.io/gallery/</link>
+      <title>加入我们</title>
+      <link>https://dfwanguh.github.io/zh-cn/join/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://dfwanguh.github.io/gallery/</guid>
-      <description>&lt;h2 id=&#34;lab&#34;&gt;Lab&lt;/h2&gt;
+      <guid>https://dfwanguh.github.io/zh-cn/join/</guid>
+      <description>&lt;p&gt;实验室长期招收对扫描探针显微术和表面物理感兴趣、且有动力从事科学研究的研究生。本研究组同时可为本科生提供课题完成毕业设计。&lt;/p&gt;
+&lt;p&gt;请将简历发送至：&lt;strong&gt;dfwang AT bit.edu.cn&lt;/strong&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>团队成员</title>
+      <link>https://dfwanguh.github.io/zh-cn/team/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://dfwanguh.github.io/zh-cn/team/</guid>
+      <description>&lt;h2 id=&#34;课题组负责人&#34;&gt;课题组负责人&lt;/h2&gt;
+&lt;div class=&#34;team-grid single&#34;&gt;
+&lt;div class=&#34;team-member&#34;&gt;
+  &lt;img src=&#34;https://dfwanguh.github.io/images/group/dfwang1.jpg&#34; alt=&#34;王东飞&#34;&gt;
+  &lt;h3&gt;王东飞 教授&lt;/h3&gt;
+  &lt;p&gt;北京理工大学物理学院 理学楼 B209&lt;/p&gt;
+  &lt;p&gt;北京市房山区良乡东路 8 号&lt;/p&gt;
+  &lt;p&gt;邮箱：dfwang AT bit.edu.cn&lt;/p&gt;
+  &lt;p&gt;&lt;a href=&#34;https://physics.bit.edu.cn/szdw/jcrc/sqrc/ec2b8a1c36af41f0b5af96cf1f385d87.htm&#34; target=&#34;_blank&#34;&gt;个人主页&lt;/a&gt;&lt;/p&gt;
+  &lt;p&gt;&lt;a href=&#34;https://scholar.google.com/citations?user=TTlZdTMAAAAJ&amp;hl=en&amp;oi=ao&#34; target=&#34;_blank&#34;&gt;Google Scholar&lt;/a&gt;&lt;/p&gt;
+  &lt;p&gt;&lt;a href=&#34;https://orcid.org/0000-0003-4645-2881&#34; target=&#34;_blank&#34;&gt;ORCID&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;h2 id=&#34;博士研究生&#34;&gt;博士研究生&lt;/h2&gt;
+&lt;div class=&#34;team-grid&#34;&gt;
+  &lt;div class=&#34;team-member&#34;&gt;
+    &lt;img src=&#34;https://dfwanguh.github.io/images/group/fanrui1.jpg&#34; alt=&#34;樊锐&#34;&gt;
+    &lt;h3&gt;樊睿&lt;/h3&gt;
+    &lt;p&gt;2024 年加入课题组&lt;/p&gt;
+    &lt;p&gt;3120266188 AT bit.edu.cn&lt;/p&gt;
+  &lt;/div&gt;
+  &lt;div class=&#34;team-member&#34;&gt;
+    &lt;img src=&#34;https://dfwanguh.github.io/images/group/qishuo1.png&#34; alt=&#34;齐硕&#34;&gt;
+    &lt;h3&gt;祁硕&lt;/h3&gt;
+    &lt;p&gt;2025 年加入课题组&lt;/p&gt;
+    &lt;p&gt;3120256234 AT bit.edu.cn&lt;/p&gt;
+  &lt;/div&gt;
+  &lt;div class=&#34;team-member&#34;&gt;
+    &lt;img src=&#34;https://dfwanguh.github.io/images/group/zixuan1.png&#34; alt=&#34;王子璇&#34;&gt;
+    &lt;h3&gt;王子轩&lt;/h3&gt;
+    &lt;p&gt;2026 年加入课题组&lt;/p&gt;
+    &lt;p&gt;3120266189 AT bit.edu.cn&lt;/p&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;h2 id=&#34;硕士研究生&#34;&gt;硕士研究生&lt;/h2&gt;
+&lt;div class=&#34;team-grid&#34;&gt;
+  &lt;div class=&#34;team-member&#34;&gt;
+    &lt;img src=&#34;https://dfwanguh.github.io/images/group/minghui1.png&#34; alt=&#34;徐明慧&#34;&gt;
+    &lt;h3&gt;徐明慧&lt;/h3&gt;
+    &lt;p&gt;2025 年加入课题组&lt;/p&gt;
+    &lt;p&gt;3120251604 AT bit.edu.cn&lt;/p&gt;
+  &lt;/div&gt;
+  &lt;div class=&#34;team-member&#34;&gt;
+    &lt;img src=&#34;https://dfwanguh.github.io/images/group/yuxuan1.jpg&#34; alt=&#34;李宇轩&#34;&gt;
+    &lt;h3&gt;李宇轩&lt;/h3&gt;
+    &lt;p&gt;2026 年加入课题组&lt;/p&gt;
+    &lt;p&gt;3120261574 AT bit.edu.cn&lt;/p&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;h2 id=&#34;已毕业学生&#34;&gt;已毕业学生&lt;/h2&gt;</description>
+    </item>
+    <item>
+      <title>文章列表</title>
+      <link>https://dfwanguh.github.io/zh-cn/publications/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://dfwanguh.github.io/zh-cn/publications/</guid>
+      <description>&lt;div style=&#34;text-align: justify;&#34;&gt;
+&lt;h2 id=&#34;2026&#34;&gt;2026&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Katerina Vaxevani, Jon Ortuzar, Stefano Trivini, Georg Monninger, Dongfei Wang, Lucía Gómez-Rodrigo, Diego Peña, Jose Ignacio Pascual.&lt;br&gt;
+&amp;ldquo;Parity-dependent coupling of molecular spin chains to a superconductor&amp;rdquo;&lt;br&gt;
+&lt;em&gt;arXiv:2608.22736, 2026&lt;/em&gt;.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Dongfei Wang, Wenbin Li, Eric Mascot, Roland Wiesendanger.&lt;br&gt;
+&amp;ldquo;Exchange-induced suppression of superconductivity in a nano-skyrmion lattice-superconductor hybrid&amp;rdquo;.&lt;br&gt;
+&lt;em&gt;arXiv:2608.09207, 2026&lt;/em&gt;.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Dongfei Wang, Jon Ortuzar, Freek Massee, Ruidan Zhong, Genda Gu, Wende Xiao, Yugui Yao, Roland Wiesendanger.&lt;br&gt;
+&amp;ldquo;Distinguishing Majorana zero modes from trivial defect states on the surface of the iron-based superconductor Fe (Te, Se)&amp;rdquo;&lt;br&gt;
+&lt;em&gt;Communications Physics, 2026&lt;/em&gt;.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>相册</title>
+      <link>https://dfwanguh.github.io/zh-cn/gallery/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://dfwanguh.github.io/zh-cn/gallery/</guid>
+      <description>&lt;h2 id=&#34;实验室&#34;&gt;实验室&lt;/h2&gt;
 
 
 
@@ -472,7 +559,7 @@
 	})(window.HSCGjQuery)
 &lt;/script&gt;
 
-&lt;h2 id=&#34;beautiful-surfaces&#34;&gt;Beautiful surfaces&lt;/h2&gt;
+&lt;h2 id=&#34;美丽的表面&#34;&gt;美丽的表面&lt;/h2&gt;
 
 
 
@@ -605,7 +692,7 @@
 	})(window.HSCGjQuery)
 &lt;/script&gt;
 
-&lt;h2 id=&#34;cute-molecules&#34;&gt;Cute molecules&lt;/h2&gt;
+&lt;h2 id=&#34;可爱的分子&#34;&gt;可爱的分子&lt;/h2&gt;
 
 
 
@@ -738,7 +825,7 @@
 	})(window.HSCGjQuery)
 &lt;/script&gt;
 
-&lt;h2 id=&#34;life-at-bit&#34;&gt;Life at BIT&lt;/h2&gt;
+&lt;h2 id=&#34;北理工生活&#34;&gt;北理工生活&lt;/h2&gt;
 
 
 
@@ -1102,108 +1189,71 @@
 &lt;/script&gt;</description>
     </item>
     <item>
-      <title>Instrumentation</title>
-      <link>https://dfwanguh.github.io/instrumentation/</link>
+      <title>研究方向</title>
+      <link>https://dfwanguh.github.io/zh-cn/research/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://dfwanguh.github.io/instrumentation/</guid>
-      <description>&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
-&lt;p&gt;We operate and maintain several facilities, including: one 1K-8T STM-AFM, two MBE systems, one RT AFM-MFM system.&lt;/p&gt;
-&lt;h2 id=&#34;stmafm&#34;&gt;STM/AFM&lt;/h2&gt;
-&lt;figure class=&#34;align-center justify-caption&#34;&gt;
-    &lt;img loading=&#34;lazy&#34; src=&#34;https://dfwanguh.github.io/images/instrumentation/Quanta.jpg#center&#34;
-         alt=&#34;This is a customer design STM with 1.2 K lowest temperature and 8 T magnetic field. It also capable of surface magnetism imaging with SP-STM mode as well as molecular bonds imaging with nc-AFM mode. Beside, two HF lines arrive at the tunneling junction with MW frequency larger than 20 GHz.&#34; width=&#34;800&#34;/&gt; &lt;figcaption&gt;
-            Quanta&lt;p&gt;This is a customer design STM with 1.2 K lowest temperature and 8 T magnetic field. It also capable of surface magnetism imaging with SP-STM mode as well as molecular bonds imaging with nc-AFM mode. Beside, two HF lines arrive at the tunneling junction with MW frequency larger than 20 GHz.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Join Us</title>
-      <link>https://dfwanguh.github.io/join/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://dfwanguh.github.io/join/</guid>
-      <description>&lt;p&gt;We are always looking for motivated students interested in scanning probe microscopy and surface physics.&lt;/p&gt;
-&lt;p&gt;Please send your CV to: &lt;strong&gt;dfwang AT bit.edu.cn&lt;/strong&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Publications</title>
-      <link>https://dfwanguh.github.io/publications/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://dfwanguh.github.io/publications/</guid>
-      <description>&lt;div style=&#34;text-align: justify;&#34;&gt;
-&lt;h2 id=&#34;2026&#34;&gt;2026&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;Katerina Vaxevani, Jon Ortuzar, Stefano Trivini, Georg Monninger, Dongfei Wang, Lucía Gómez-Rodrigo, Diego Peña, Jose Ignacio Pascual.&lt;br&gt;
-&amp;ldquo;Parity-dependent coupling of molecular spin chains to a superconductor&amp;rdquo;&lt;br&gt;
-&lt;em&gt;arXiv:2608.22736, 2026&lt;/em&gt;.&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Dongfei Wang, Wenbin Li, Eric Mascot, Roland Wiesendanger.&lt;br&gt;
-&amp;ldquo;Exchange-induced suppression of superconductivity in a nano-skyrmion lattice-superconductor hybrid&amp;rdquo;.&lt;br&gt;
-&lt;em&gt;arXiv:2608.09207, 2026&lt;/em&gt;.&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Dongfei Wang, Jon Ortuzar, Freek Massee, Ruidan Zhong, Genda Gu, Wende Xiao, Yugui Yao, Roland Wiesendanger.&lt;br&gt;
-&amp;ldquo;Distinguishing Majorana zero modes from trivial defect states on the surface of the iron-based superconductor Fe (Te, Se)&amp;rdquo;&lt;br&gt;
-&lt;em&gt;Communications Physics, 2026&lt;/em&gt;.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Research</title>
-      <link>https://dfwanguh.github.io/research/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://dfwanguh.github.io/research/</guid>
+      <guid>https://dfwanguh.github.io/zh-cn/research/</guid>
       <description>&lt;div style=&#34;text-align: justify;&#34;&gt;
 &lt;ul&gt;
 &lt;li&gt;
-&lt;h2 id=&#34;majorana-physics-in-superconductors&#34;&gt;Majorana Physics in superconductors&lt;/h2&gt;
+&lt;h2 id=&#34;超导体中的马约拉纳物理&#34;&gt;超导体中的马约拉纳物理&lt;/h2&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;Topological superconductors, as an emergent class of superconducting states, provides an ideal platform for the investigation of topology as well as parity symmetry. They also support the existence of Majorana anyons, quasiparticles that are their own antiparticles, with potential applications in fault-tolerant quantum computation. Low temperature STM/STS are advanced experimental techniques widely used to study topological superconducting states due to their ultrahigh spatial and energy resolution. Our research is focusing on using advanced STM technique, such as Spin-polarized STM, to image the magnetic field response of such anyons in topological superconductor candidates. Further more, we seek the possibility to manipulates Majorana anyons and make fusions with them.
-This research is supported by the National Science Foundation of China.&lt;/p&gt;</description>
+&lt;p&gt;拓扑超导体作为一类新兴的超导态，为研究拓扑学及宇称对称性提供了理想平台。它们还支持马约拉纳任意子的存在——这是一种自身即为其反粒子的准粒子，在容错量子计算中具有潜在应用。低温扫描隧道显微镜/谱（STM/STS）因其超高的空间和能量分辨率，是研究拓扑超导态的重要实验手段。我们的研究聚焦于利用先进的 STM 技术，如自旋极化 STM，来研究拓扑超导体候选材料中马约拉纳任意子的磁场响应。此外，我们探索操控马约拉纳任意子并实现其融合的可能性。本研究得到国家自然科学基金的支持。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;h2 id=&#34;低维材料制备&#34;&gt;低维材料制备&lt;/h2&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;近年来，低维量子材料因其独特的电子性质和潜在的器件应用而受到广泛关注。与传统电子材料相比，低维量子材料在维度降低和量子限域效应的影响下展现出许多新颖的电子特性和优势。例如，一维碳纳米管具有高载流子迁移率和机械强度；二维石墨烯和过渡金属硫族化合物（TMD）是研究量子霍尔效应和分数量子霍尔效应等新颖电子特性的理想平台；三维拓扑绝缘体具有拓扑保护的、自旋轨道锁定的表面态。对低维量子材料的研究有望为从计算到能源等广泛领域带来诸多潜在技术进步。&lt;/p&gt;
+&lt;p&gt;目前，我们关注以下三个研究方向：&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;非常规磁性薄膜的 MBE 生长。&lt;/li&gt;
+&lt;li&gt;杂化体系的构建：利用近邻效应，我们希望将各种材料的优势结合起来。我们尤其感兴趣的是构建基于超导衬底的异质结构。&lt;/li&gt;
+&lt;li&gt;表面合成：碳基磁性为基于有机材料构建自旋逻辑器件提供了可能。我们的研究聚焦于石墨烯纳米结构的合成与表征，例如石墨烯纳米带和纳米石墨烯。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;h2 id=&#34;仪器开发&#34;&gt;仪器开发&lt;/h2&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;我们设计并搭建用于先进 SPM 测量以及 MBE 的定制仪器。&lt;/p&gt;
+&lt;/div&gt;</description>
     </item>
     <item>
-      <title>Team</title>
-      <link>https://dfwanguh.github.io/team/</link>
+      <title>仪器设备</title>
+      <link>https://dfwanguh.github.io/zh-cn/instrumentation/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://dfwanguh.github.io/team/</guid>
-      <description>&lt;h2 id=&#34;principal-investigator&#34;&gt;Principal Investigator&lt;/h2&gt;
-&lt;div class=&#34;team-grid single&#34;&gt;
-&lt;div class=&#34;team-member&#34;&gt;
-  &lt;img src=&#34;https://dfwanguh.github.io/images/group/dfwang1.jpg&#34; alt=&#34;Dongfei Wang&#34;&gt;
-  &lt;h3&gt;Prof. Dongfei Wang&lt;/h3&gt;
-  &lt;p&gt;Lixuelou B209, School of Physics, BIT&lt;/p&gt;
-  &lt;p&gt;No.8, Liangxiang East Road, Fangshan District, Beijing&lt;/p&gt;
-  &lt;p&gt;Email: dfwang AT bit.edu.cn&lt;/p&gt;
-  &lt;p&gt;&lt;a href=&#34;https://physics.bit.edu.cn/szdw/jcrc/sqrc/ec2b8a1c36af41f0b5af96cf1f385d87.htm&#34; target=&#34;_blank&#34;&gt;Personal Website&lt;/a&gt;&lt;/p&gt;
-  &lt;p&gt;&lt;a href=&#34;https://scholar.google.com/citations?user=TTlZdTMAAAAJ&amp;hl=en&amp;oi=ao&#34; target=&#34;_blank&#34;&gt;Google Scholar&lt;/a&gt;&lt;/p&gt;
-  &lt;p&gt;&lt;a href=&#34;https://orcid.org/0000-0003-4645-2881&#34; target=&#34;_blank&#34;&gt;ORCID&lt;/a&gt;&lt;/p&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;h2 id=&#34;phd-students&#34;&gt;PhD Students&lt;/h2&gt;
-&lt;div class=&#34;team-grid&#34;&gt;
-  &lt;div class=&#34;team-member&#34;&gt;
-    &lt;img src=&#34;https://dfwanguh.github.io/images/group/fanrui1.jpg&#34; alt=&#34;Student One&#34;&gt;
-    &lt;h3&gt;Rui Fan&lt;/h3&gt;
-    &lt;p&gt;Group member since 2024&lt;/p&gt;
-    &lt;p&gt;3120266188 AT bit.edu.cn&lt;/p&gt;
-  &lt;/div&gt;
-  &lt;div class=&#34;team-member&#34;&gt;
-    &lt;img src=&#34;https://dfwanguh.github.io/images/group/qishuo1.png&#34; alt=&#34;Student Two&#34;&gt;
-    &lt;h3&gt;Shuo Qi&lt;/h3&gt;
-    &lt;p&gt;Group member since 2025&lt;/p&gt;
-    &lt;p&gt;3120256234 AT bit.edu.cn&lt;/p&gt;
-  &lt;/div&gt;
-  &lt;div class=&#34;team-member&#34;&gt;
-    &lt;img src=&#34;https://dfwanguh.github.io/images/group/zixuan1.png&#34; alt=&#34;Student Three&#34;&gt;
-    &lt;h3&gt;Zixuan Wang&lt;/h3&gt;
-    &lt;p&gt;Group member since 2026&lt;/p&gt;
-    &lt;p&gt;3120266189 AT bit.edu.cn&lt;/p&gt;
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;h2 id=&#34;masters-students&#34;&gt;Master&amp;rsquo;s Students&lt;/h2&gt;
-&lt;div class=&#34;team-grid&#34;&gt;
-  &lt;div class=&#34;team-member&#34;&gt;
-    &lt;img src=&#34;https://dfwanguh.github.io/images/group/minghui1.png&#34; alt=&#34;Master One&#34;&gt;
-    &lt;h3&gt;Minghui Xu&lt;/h3&gt;
-    &lt;p&gt;Group member since 2025&lt;/p&gt;</description>
+      <guid>https://dfwanguh.github.io/zh-cn/instrumentation/</guid>
+      <description>&lt;h2 id=&#34;概述&#34;&gt;概述&lt;/h2&gt;
+&lt;p&gt;课题组运行并维护多台低维量子材料制备及成像设备，包括：一套 1K–8T 的 STM/AFM系统，两套 MBE 系统，一套室温 AFM-MFM 系统。&lt;/p&gt;
+&lt;h2 id=&#34;扫描隧道显微镜原子力显微镜&#34;&gt;扫描隧道显微镜/原子力显微镜&lt;/h2&gt;
+&lt;figure class=&#34;align-center justify-caption&#34;&gt;
+    &lt;img loading=&#34;lazy&#34; src=&#34;https://dfwanguh.github.io/images/instrumentation/Quanta.jpg#center&#34;
+         alt=&#34;这是一台定制设计的 STM，最低温度 1.2 K，磁场 8 T。它还能通过 SP-STM 模式实现表面磁性成像，以及通过 nc-AFM 模式实现分子化学键成像。此外，有两条高频线路连接至隧穿结，微波频率高于 20 GHz。&#34; width=&#34;800&#34;/&gt; &lt;figcaption&gt;
+            Quanta&lt;p&gt;这是一台定制设计的 STM，最低温度 1.2 K，磁场 8 T。它还能通过 SP-STM 模式实现表面磁性成像，以及通过 nc-AFM 模式实现分子化学键成像。此外，有两条高频线路连接至隧穿结，微波频率高于 20 GHz。&lt;/p&gt;
+        &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;figure class=&#34;align-center justify-caption&#34;&gt;
+    &lt;img loading=&#34;lazy&#34; src=&#34;https://dfwanguh.github.io/images/instrumentation/Innova.jpg#center&#34;
+         alt=&#34;这是一台室温 AFM，可进行快速表面成像，也可实现 MFM 成像以及表面 KPFM 成像。&#34; width=&#34;800&#34;/&gt; &lt;figcaption&gt;
+            Innova&lt;p&gt;这是一台室温 AFM，可进行快速表面成像，也可实现 MFM 成像以及表面 KPFM 成像。&lt;/p&gt;
+        &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;h2 id=&#34;分子束外延系统&#34;&gt;分子束外延系统&lt;/h2&gt;
+&lt;figure class=&#34;align-center justify-caption&#34;&gt;
+    &lt;img loading=&#34;lazy&#34; src=&#34;https://dfwanguh.github.io/images/instrumentation/MBE1.jpg#center&#34;
+         alt=&#34;这是一套自主搭建的 MBE 系统。它的超高真空腔体较小，最多可安装 7 个蒸发源。样品可加热至 1800 度。使用微型石英晶振仪校准材料沉积速率。可通过超高真空传递包实现原位样品转移。&#34; width=&#34;800&#34;/&gt; &lt;figcaption&gt;
+            MBE1&lt;p&gt;这是一套自主搭建的 MBE 系统。它的超高真空腔体较小，最多可安装 7 个蒸发源。样品可加热至 1800 度。使用微型石英晶振仪校准材料沉积速率。可通过超高真空传递包实现原位样品转移。&lt;/p&gt;
+        &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;figure class=&#34;align-center justify-caption&#34;&gt;
+    &lt;img loading=&#34;lazy&#34; src=&#34;https://dfwanguh.github.io/images/instrumentation/MBE2.jpg#center&#34;
+         alt=&#34;这是第二套自主搭建的 MBE 系统，与北京理工大学的肖文德教授合作研制。它的腔体更大，最多可安装 8 个蒸发源。样品可加热至 1800 度，并可通过离子溅射枪清洗。使用微型石英晶振仪校准材料沉积速率。它还保留了 RHEED 接口，用于进一步监测薄膜生长。可通过超高真空传递包实现原位样品转移。&#34; width=&#34;800&#34;/&gt; &lt;figcaption&gt;
+            MBE2&lt;p&gt;这是第二套自主搭建的 MBE 系统，与北京理工大学的肖文德教授合作研制。它的腔体更大，最多可安装 8 个蒸发源。样品可加热至 1800 度，并可通过离子溅射枪清洗。使用微型石英晶振仪校准材料沉积速率。它还保留了 RHEED 接口，用于进一步监测薄膜生长。可通过超高真空传递包实现原位样品转移。&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
